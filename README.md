@@ -20,7 +20,8 @@ A responsive cryptocurrency dashboard built using **React**, **TypeScript**, and
 
 ## 📷 Preview
 
-> (Add a screenshot or GIF here showing your dashboard)
+<img width="1712" height="710" alt="image" src="https://github.com/user-attachments/assets/8206b032-cb86-4e26-9378-8cc9291f3688" />
+
 
 ---
 
