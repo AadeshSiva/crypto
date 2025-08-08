@@ -8,7 +8,7 @@ A responsive cryptocurrency dashboard built using **React**, **TypeScript**, and
 
 - ✅ **3 Crypto Cards** showing:
   - Cryptocurrency Name
-  - Current Price (USD)
+  - Current Price (INR)
   - 24h Price Change (%)
 - ✅ **Auto-refreshes** prices every 30 seconds
 - ✅ **Bitcoin Trend Line Chart** (last 6 hours)
